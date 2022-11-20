@@ -1,0 +1,1 @@
+ SELECT * FROM hotel.hospede;adm
